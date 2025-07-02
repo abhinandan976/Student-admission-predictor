@@ -28,7 +28,7 @@ The dataset includes various factors influencing student admission, such as:
 - Communication & Critical Thinking Scores  
 - Teacher & Peer Reviews  
 
-## 🚀 How to Use this project 
+## 🚀 How to Use
 
 1. Clone this repository:  
    ```bash
