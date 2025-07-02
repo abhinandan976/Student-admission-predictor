@@ -2,7 +2,7 @@
 
 This project predicts whether a student will be admitted to a university based on various academic, extracurricular, and personal attributes. The model is trained using machine learning techniques to provide accurate predictions.  
 
-## 📌 Features  
+## 📌 Features: 
 
 - Predicts university admission chances based on key student attributes.  
 - Utilizes a dataset with features like test scores, interview ratings, extracurriculars, and academic performance.  
@@ -28,7 +28,7 @@ The dataset includes various factors influencing student admission, such as:
 - Communication & Critical Thinking Scores  
 - Teacher & Peer Reviews  
 
-## 🚀 How to Use  
+## 🚀 How to Use this project 
 
 1. Clone this repository:  
    ```bash
