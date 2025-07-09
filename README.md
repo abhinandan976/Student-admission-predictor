@@ -13,7 +13,8 @@ This project predicts whether a student will be admitted to a university based o
 
 - **Python**  
 - **Scikit-Learn**  
-- **Pandas, NumPy**  
+- **Pandas**
+- **Numpy**  
 - **Matplotlib, Seaborn**  
 - **Jupyter Notebook**  
 
